@@ -1,0 +1,10 @@
+jalsey.xie@gmail.com
+x0x9q8..
+C:\Users\jxie\Downloads
+C:\UserData\jxie\My Documents\AltiumLL\SamacSys.SchLib
+C:\UserData\jxie\My Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+0
+True
